@@ -9,7 +9,7 @@ Feel free to check out the projects and see what I've been working on – each p
 
 I'll be updating it regularly with new projects as I continue to learn and explore.
 
-## 1. Titanic - Machine Learning
+## 1. [Titanic - Machine Learning](https://github.com/vilmahietala/data_science_projects/tree/master/titanic_competition_kaggle)
 
 
   * Description: The project predicts which passengers survived the Titanic shipwreck.
