@@ -11,7 +11,7 @@ I'll be updating it regularly with new projects as I continue to learn and explo
 
 ## 1. [EDA - Exploratory Data Analysis](https://github.com/vilmahietala/data_science_projects/tree/master/EDA)
 
- * Description: This project is an Exploratory Data Analysis (EDA) that focuses on exploring the key factors that cause obesity. Through exploratory analysis, we seek to understand the data and find patterns, trends, and relationships. 
+ * Description: This project is an Exploratory Data Analysis (EDA) that focuses on understanding the data and exploring the key factors that cause obesity.
 
 ## 2. [Titanic - Machine Learning](https://github.com/vilmahietala/data_science_projects/tree/master/titanic_competition_kaggle)
 
